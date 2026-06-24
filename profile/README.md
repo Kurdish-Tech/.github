@@ -38,6 +38,13 @@
 </div>
 
 
+<div align="center">
+  <a href="https://github.com/Kurdish-Tech/kurdish-kurmanci-keyboard-layout">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kurdish-Tech&repo=kurdish-spell-checker-extension&theme=react&bg_color=0F172A&title_color=38BDF8&text_color=F8FAFC&icon_color=F59E0B&border_radius=10" alt="Kurdish Keyboard" />
+  </a>
+</div>
+
+
 <br>
 
 ## 🤝 Beşdarî Rêxistinê Bibin | انضم وساهم معنا
