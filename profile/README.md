@@ -1,6 +1,5 @@
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star" width="40" />
   <h1>Kurdish Tech Organization</h1>
 
   <!-- تأثير الكتابة المتحركة -->
@@ -25,25 +24,6 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-## 🚀 Projeyên Sereke | مشاريعنا الأساسية
-
-<!-- بطاقات المشاريع الحية التي تتحدث تلقائياً -->
-<div align="center">
-  <a href="https://github.com/Kurdish-Tech/kurdish-kurmanci-keyboard-layout">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kurdish-Tech&repo=kurdish-kurmanci-keyboard-layout&theme=react&bg_color=0F172A&title_color=38BDF8&text_color=F8FAFC&icon_color=F59E0B&border_radius=10" alt="Kurdish Keyboard" />
-  </a>
-</div>
-
-
-<div align="center">
-  <a href="https://github.com/Kurdish-Tech/kurdish-kurmanci-keyboard-layout">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kurdish-Tech&repo=kurdish-spell-checker-extension&theme=react&bg_color=0F172A&title_color=38BDF8&text_color=F8FAFC&icon_color=F59E0B&border_radius=10" alt="Kurdish Keyboard" />
-  </a>
-</div>
-
 
 <br>
 
@@ -81,3 +61,5 @@
 <br>
 <hr>
 <p align="center"><b>Kurdish Tech © 2026</b><br><i>Dahênana Dîjîtal a Kurdî | الابتكار الرقمي الكردي</i></p>
+<p align="center">Ziman Nasnameya mirove</p>
+
