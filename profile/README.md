@@ -1,65 +1,161 @@
 <div align="center">
-  
-  <h1>Kurdish Tech Organization</h1>
 
-  <!-- تأثير الكتابة المتحركة -->
-  <a href="https://github.com/Kurdish-Tech">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&lines=Dah%C3%AAnan+bi+Ziman%C3%AA+Me;%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1+%D8%A8%D9%84%D8%BA%D8%AA%D9%86%D8%A7;Building+the+Kurdish+Digital+Future" alt="Typing SVG" />
-  </a>
+# Kurdish-Tech
+
+### Building the Digital Future of the Kurdish Language
+
+**Dahênana Dîjîtal a Kurdî** **الابتكار الرقمي الكردي**
+
+<br>
+
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-22C55E?style=for-the-badge)](https://github.com/Kurdish-Tech)
+[![Community Driven](https://img.shields.io/badge/Community-Driven-3B82F6?style=for-the-badge)](https://github.com/Kurdish-Tech)
+[![Non Profit](https://img.shields.io/badge/Non--Profit-Organization-F59E0B?style=for-the-badge)](https://github.com/Kurdish-Tech)
+
+<br>
+
+> **Preserving, empowering, and advancing the Kurdish language through modern open-source technology.**
+
 </div>
 
-<br><br>
+---
 
-## 🌟 Der barê Me | من نحن
+# 🌍 Who We Are
 
-<table>
-  <tr>
-    <td width="50%" align="left" valign="top">
-      <h3>Bi Kurmancî ☀️</h3>
-      <b>Kurdish Tech</b> rêxistineke serbixwe û çavkanî-vekirî (Open-Source) ye. Em li vir in da ku valahiya dîjîtal a zimanê Kurdî tijî bikin. Bi rêya pêşxistina nermalav, amûr û çareseriyên teknolojîk ên nûjen, em armanc dikin ku ziman û çanda Kurdî di cîhana dîjîtal de zindî û bihêz bihêlin.
-    </td>
-    <td width="50%" align="right" valign="top" dir="rtl">
-      <h3>باللغة العربية 🌐</h3>
-      <b>Kurdish Tech</b> هي منظمة تقنية مستقلة ومفتوحة المصدر. نحن هنا لسد الفجوة الرقمية للغة الكردية. من خلال تطوير البرمجيات، الأدوات، والحلول التكنولوجية المبتكرة، نهدف إلى إبقاء اللغة والثقافة الكردية حية، قوية، ومواكبة لعالم التقنية الحديث بقوة.
-    </td>
-  </tr>
-</table>
+**Kurdish-Tech** is an independent, community-driven open-source technology organization dedicated to building modern digital infrastructure for the Kurdish language.
 
-<br>
+We believe that every language deserves a strong digital presence. Our mission is to create high-quality software, linguistic resources, and educational tools that make Kurdish more accessible across modern platforms.
 
-## 🤝 Beşdarî Rêxistinê Bibin | انضم وساهم معنا
+Our work is completely open-source, transparent, and built for everyone.
 
-<table>
-  <tr>
-    <td width="50%" align="left" valign="top">
-      <h4>🔗 Çawa hûn dikarin alîkariyê bikin?</h4>
-      <ul>
-        <li>💻 <b>Kodsazî:</b> Beşdarî projeyên me yên vekirî bibin û koda xwe zêde bikin.</li>
-        <li>🌍 <b>Werger:</b> Nermalavan bo zimanê Kurdî wergerînin.</li>
-        <li>🎨 <b>Sêwiran:</b> Di rûyê bikarhêner (UI/UX) de alîkar bin.</li>
-      </ul>
-    </td>
-    <td width="50%" align="right" valign="top" dir="rtl">
-      <h4>🔗 كيف يمكنك المساعدة؟</h4>
-      <ul>
-        <li>💻 <b>البرمجة:</b> ساهم في كتابة وتطوير الأكواد في مستودعاتنا.</li>
-        <li>🌍 <b>الترجمة:</b> ساعدنا في تعريب البرمجيات العالمية إلى الكردية.</li>
-        <li>🎨 <b>التصميم:</b> صمم واجهات استخدام عصرية لتطبيقاتنا وأدواتنا.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+---
 
-<br>
+# 🚀 Our Mission
+
+Our goal is not simply to build applications.
+
+We aim to create an ecosystem of digital technologies that helps preserve, develop, and expand the Kurdish language for future generations.
+
+We focus on:
+
+- 📚 Digital dictionaries
+- 🌐 Modern web platforms
+- 📱 Mobile applications
+- 💻 Desktop applications
+- 🤖 AI-ready language resources
+- 📖 Educational technologies
+- 🔓 Open-source tools
+
+---
+
+# 🌟 What Makes Kurdish-Tech Different?
+
+Unlike traditional software projects, Kurdish-Tech focuses on building long-term digital infrastructure.
+
+We believe in:
+
+- ✅ Open knowledge
+- ✅ Community collaboration
+- ✅ High-quality data
+- ✅ Transparency
+- ✅ Accessibility
+- ✅ Privacy-first design
+- ✅ Offline-first experiences whenever possible
+
+Every project we build is designed to be reusable, maintainable, and beneficial for the Kurdish technology ecosystem.
+
+---
+
+# 📂 Our Projects
+
+## 📖 Ferheng
+The largest open-source Kurdish digital dictionary, available on the web, designed to make Kurdish lexical resources accessible to everyone.
+
+## ⌨️ Kurdish Keyboard Layout
+An open-source Kurdish Kurmancî keyboard layout for Windows, Linux, macOS, and other platforms, providing a consistent typing experience across devices.
+
+## 📝 Kurdish Spell Checker
+An open-source Chrome Extension that helps users write Kurmancî more accurately by detecting spelling mistakes directly in the browser.
+
+---
+
+# 🗺️ Roadmap
+
+## ✅ Completed
+
+- 📖 Ferheng Dictionary
+- 📦 Progressive Web App (PWA)
+- 📱 Android Application
+- 🌐 Arabic Translation Support
+- 📚 Zazakî Integration
+- ⌨️ Kurdish Kurmancî Keyboard Layout
+- 📝 Chrome Extension – Kurmancî Spell Checker
+
+## 🔄 In Progress
+
+- 📖 Browse Dictionary
+- 🌐 More Arabic Translations
+- ⚡ Performance & Search Improvements
+
+## 💡 Future
+
+- 💻 Desktop Applications
+- 🌍 Support for More Kurdish Dialects
+- 🎓 Educational Platforms
+- 🤖 AI Language Resources
+- 📚 Open Linguistic Datasets
+- 🚀 More Open-Source Projects---
+
+# 🤝 Contributing
+
+Kurdish-Tech is built by the community.
+
+Whether you are a developer, designer, linguist, translator, researcher, or simply passionate about the Kurdish language, your contribution matters.
+
+We welcome contributions in:
+
+- 💻 Software Development
+- 🌍 Translation
+- 📚 Linguistics
+- 📝 Documentation
+- 🎨 UI / UX Design
+- 🧪 Testing & Quality Assurance
+- 📊 Data Collection
+- 💡 Ideas & Suggestions
+
+Every contribution helps strengthen Kurdish digital resources.
+
+---
+
+# ❤️ Our Values
+
+- Accuracy before quantity.
+- Respect original sources.
+- Build for everyone.
+- Open-source by default.
+- Long-term sustainability.
+- Community first.
+
+---
+
+# 📬 Contact
+
+If you'd like to collaborate, contribute, or simply get in touch:
+
+📧 **whoamialan11@gmail.com**
+
+---
 
 <div align="center">
-  <a href="mailto:whoamialan11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-T%C3%AAkiliya%20B%C4%B1ke%20%7C%20%D8%AA%D9%88%D8%A7%D8%B5%D9%84%20%D9%85%D8%B9%D9%86%D8%A7-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email Us" />
-  </a>
+
+## Together, we are building the digital future of the Kurdish language.
+
+**Kurdish-Tech © 2026**
+
+**Dahênana Dîjîtal a Kurdî**
+
+**الابتكار الرقمي الكردي**
+
+*"Ziman nasnameya mirova ye."*
+
 </div>
-
-<br>
-<hr>
-<p align="center"><b>Kurdish Tech © 2026</b><br><i>Dahênana Dîjîtal a Kurdî | الابتكار الرقمي الكردي</i></p>
-<p align="center">Ziman Nasnameya mirove</p>
-
