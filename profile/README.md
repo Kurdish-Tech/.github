@@ -14,6 +14,13 @@
 
 <br>
 
+[![Website](https://img.shields.io/badge/Website-Ferheng-EA580C?style=for-the-badge)](https://kurdish-tech.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-kurdish--tech-FFD21E?style=for-the-badge)](https://huggingface.co/kurdish-tech)
+[![Instagram](https://img.shields.io/badge/Instagram-kurdishtech__org-E4405F?style=for-the-badge)](https://www.instagram.com/kurdishtech_org)
+[![Telegram](https://img.shields.io/badge/Telegram-KurdishTechOrg-26A5E4?style=for-the-badge)](https://t.me/KurdishTechOrg)
+
+<br>
+
 > **Preserving, empowering, and advancing the Kurdish language through modern open-source technology.**
 
 </div>
@@ -77,6 +84,9 @@ An open-source Kurdish Kurmancî keyboard layout for Windows, Linux, macOS, and 
 ## 📝 Kurdish Spell Checker
 An open-source Chrome Extension that helps users write Kurmancî more accurately by detecting spelling mistakes directly in the browser.
 
+## 📚 KurdishCorpus-clean
+A large-scale, cleaned and deduplicated Kurdish text corpus — 2.7 million documents and 2.97 billion tokens across Kurmancî, Soranî, and Zazakî, built for training and fine-tuning language models. Available on [Hugging Face](https://huggingface.co/datasets/kurdish-tech/KurdishCorpus-clean).
+
 ---
 
 # 🗺️ Roadmap
@@ -90,6 +100,7 @@ An open-source Chrome Extension that helps users write Kurmancî more accurately
 - 📚 Zazakî Integration
 - ⌨️ Kurdish Kurmancî Keyboard Layout
 - 📝 Chrome Extension – Kurmancî Spell Checker
+- 📚 Open Linguistic Dataset – KurdishCorpus-clean (2.97B tokens)
 
 ## 🔄 In Progress
 
@@ -103,8 +114,9 @@ An open-source Chrome Extension that helps users write Kurmancî more accurately
 - 🌍 Support for More Kurdish Dialects
 - 🎓 Educational Platforms
 - 🤖 AI Language Resources
-- 📚 Open Linguistic Datasets
-- 🚀 More Open-Source Projects---
+- 🚀 More Open-Source Projects
+
+---
 
 # 🤝 Contributing
 
